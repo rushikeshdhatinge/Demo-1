@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(155, 153, 153);
+    height: 100%;
+}
+.imageBox{
+width: 400px;
+height: 400px;
+background-color: wheat;
+background-image: url(/QRCode/image/QRCode.jpeg);
+background-size: cover;
+margin-inline: auto;
+margin-top: 200px;
+
+}
