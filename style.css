@@ -10,7 +10,7 @@ body{
 width: 400px;
 height: 400px;
 background-color: wheat;
-background-image: url(/image/QRCode.jpeg);
+background-image: url(./image/QRCode.jpeg);
 background-size: cover;
 margin-inline: auto;
 margin-top: 200px;
